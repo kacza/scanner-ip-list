@@ -1,3 +1,5 @@
+Last update: 2025-08-30 23:13 CEST
+
 # scanner-ip-list
 IP list of known scanners.
 
